@@ -2,16 +2,28 @@
  background: #0D0D0D!important;
  }
  .GcESAf{
-     background-color: #151515;
+     background-color: #151515 !important;
      }
 * {
     color: #EAE9E9;
 }
 .cjGgHb .M9kDrd:hover, .M9kDrd:focus{
 
-    background-color: #1D1D1D;
+    background-color: #1D1D1D !important;
     }
     .GsLz7c, .bYmF4e {
-    background-color:#0C0C0C;
+    background-color:#0C0C0C !important;
+    }
+    .F7tj9b, .LZOeXd {
+    background-color: #101010 !important;
     }
     
+.B5gIxb {
+ background-color:transparent !important;
+}
+.cjGgHb .M24KRd:hover {
+    background-color: #1D1D1D !important;
+}
+.m3JvWd, .e9VPPd, .nAVztc {
+    color: rgba(255, 255, 255, 0.87);
+}
