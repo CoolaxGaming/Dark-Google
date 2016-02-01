@@ -7,9 +7,16 @@ a{
 #sfdiv {
     border-color: #711313 !important;
 }
-.jsb input[type=submit]{
+.jsb input[type=submit], .lsb{
     border-color: #080808!important;
     background: #901717!important;
     color: #E2E2E2!important;
     border-radius:0px !important;
+}
+#fbar{
+    border-top: 1px solid black  !important;
+    background-color:#080808 !important;
+}
+.gb_Za{
+        border-radius: 20% !important;
 }
