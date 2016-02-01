@@ -1,7 +1,7 @@
 .Jvazdb, .g3VIld{
  background: #0D0D0D!important;
  }
- .GcESAf, .E4TZmd{
+ .GcESAf, .E4TZmd, .QoB5We{
      background-color: #151515 !important;
      }
 * , .qXj2He{
@@ -25,7 +25,7 @@
     background-color: #1D1D1D !important;
 }
 .m3JvWd, .e9VPPd, .nAVztc {
-    color: rgba(255, 255, 255, 0.87);
+    color: rgba(255, 255, 255, 0.87) ; 
 }
 .Tek5Ce {
     background-color: #AD0E00 !important;
@@ -42,8 +42,12 @@
 .M24KRd, .bKF80{
  background-color: #101010 !important;
 }
-.WiMrBe, a, .proflinkPrefix {
-    color: #EC0000;
+.WiMrBe, a, .proflinkPrefix, .ny6AZd {
+    color: #EC0000  !important;
+}
+.fu5e3b.qhIQqf:after{
+     color: #9E0303 !important;
+         background: linear-gradient(to right,rgba(255,255,255,0),#1D1D1D 50%,#0D0D0D) !important;
 }
 .DKSJDb {
 
