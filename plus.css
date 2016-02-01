@@ -1,10 +1,10 @@
 .Jvazdb, .g3VIld{
  background: #0D0D0D!important;
  }
- .GcESAf{
+ .GcESAf, .E4TZmd{
      background-color: #151515 !important;
      }
-* {
+* , .qXj2He{
     color: #EAE9E9;
 }
 .cjGgHb .M9kDrd:hover, .M9kDrd:focus{
@@ -30,7 +30,7 @@
 .Tek5Ce {
     background-color: #AD0E00 !important;
 }
-.XS1fT___i17 {
+.XS1fT___i17, .XS1fT___c98 { 
     background: #AD0E00 !important;
 }
 .gb_X .gb_kc.gb_kc{
@@ -42,8 +42,13 @@
 .M24KRd, .bKF80{
  background-color: #101010 !important;
 }
-.WiMrBe, a {
+.WiMrBe, a, .proflinkPrefix {
     color: #EC0000;
+}
+.DKSJDb {
+
+     background-color: #0C0C0C !important;
+         color: #444 !important;
 }
 ::-webkit-scrollbar {
     width: 12px;
