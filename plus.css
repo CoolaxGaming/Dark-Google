@@ -28,14 +28,16 @@
     color: rgba(255, 255, 255, 0.87);
 }
 .Tek5Ce {
-    background: #AD0E00 !important;
+    background-color: #AD0E00 !important;
 }
 .XS1fT___i17 {
     background: #AD0E00 !important;
 }
 .gb_X .gb_kc.gb_kc{
     background-color:#0C0C0C !important;
-    color: #EAE9E9 !important;
+}
+.YRgYyc {
+    background: rgba(60, 60, 60, 0.15) !important;
 }
 ::-webkit-scrollbar {
     width: 12px;
