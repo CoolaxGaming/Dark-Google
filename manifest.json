@@ -1,12 +1,11 @@
 {
 	"manifest_version": 2,
 	"name": "Dark-Google",
-	"version": "1.0-alpha",
-	"default_locale": "en",
+	"version": "0.1",
 	"description": "Dark theme for google sites",
 	"author": "CoolaxGaming",
 	"content_scripts": [{
-		"matches": ["http://plus.google.com/*"],
+		"matches": ["https://plus.google.com/*"],
 		"css": ["plus.css"]
 	}]
 }
