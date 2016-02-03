@@ -20,12 +20,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 */
 .Jvazdb,
+.kmZFre,
 .Hjzhbc,
 .f0Eb9c,
 .g3VIld,
 .u5oEgd,
 .UVZlkc{
-    background: #0D0D0D!important;
+    background: #0D0D0D !important;
 }
 .GcESAf,
 .E4TZmd,
@@ -145,7 +146,7 @@ a,
 .teJoc {
     border-left: 5px solid #EAE9E9 !important;
 }
-.f0Eb9c{
+.f0Eb9c, .Vk7JBd:not(:last-child){
         border-bottom: 1px solid #EAE9E9 !important;
 }
 .kImWkc, .T4R01 .wsq3Ve {
