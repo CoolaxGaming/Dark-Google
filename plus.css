@@ -1,4 +1,5 @@
-.Jvazdb, .g3VIld{
+
+.Jvazdb, .g3VIld, .L1NA8d{
  background: #0D0D0D!important;
  }
  .GcESAf, .E4TZmd, .QoB5We{
@@ -30,7 +31,7 @@
 .Tek5Ce {
     background-color: #AD0E00 !important;
 }
-.XS1fT___i17, .XS1fT___c98 { 
+.XS1fT___i17, .XS1fT___c98, .XS1fT___c445, .XS1fT___c51 { 
     background: #AD0E00 !important;
 }
 .gb_X .gb_kc.gb_kc{
@@ -55,7 +56,7 @@
          color: #444 !important;
 }
 .gZXxHe,
-.JPdR6b, .gBPe9b, .JXv70c
+.JPdR6b, .gBPe9b, .RW0zMe
 {
     background-color: #151515 !important;
 
@@ -63,26 +64,46 @@
 .nmGb1, .iHCNId {
     border-top: 1px solid #A0A0A0 !important;
 }
-.XS1fT___c68, .XS1fT___c69 {
+.XS1fT___c68, .XS1fT___c69, .XS1fT___c140, .vfJjge {
     background: #232323 !important;
+}
+.ZFr60d{
+     background-color: rgb(39, 39, 39) !important;
+}
+.XVzU0b path, .XVzU0b circle {
+    fill: #EAE9E9 !important;
 }
 .xdjHt.FYQzvb {
     background-image: url('https://ssl.gstatic.com/images/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png') !important;
 }
-.Wbuh5e,.Xa1Zuc,.w7TRJf, .xRbTYb{
+.Wbuh5e,.Xa1Zuc,.w7TRJf, .xRbTYb, .iLGfrb, .EKledf, .c8b3Te, .jsery, .CvqmZc, .Aprlmc, .toHbGf, .ParDJc{
         color: #EAE9E9 !important;
+        }
+        .teJoc{
+             border-left: 5px solid #EAE9E9 !important;
         }
         .kImWkc {
     background: #9B0101 !important;
-        }
-        .toHbGf{
-             color: #EAE9E9;
         }
         .RH4Xh.DZW8fd {
     border-color: #1D1D1D !important;
         }
         qnc6Hf.RH4Xh.DZW8fd {
     background-color: #880202 !important;
+        }
+        .JXv70c {
+    background-color: #0d0d0d !important;
+}
+        
+        
+        
+        
+        .gZXxHe .ZFr60d{
+ background-color:transparent !important;
+}
+        
+        .hjILvd {
+    border: 1px solid #2B2B2B !important;
         }
 ::-webkit-scrollbar {
     width: 12px;
