@@ -20,8 +20,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 */
 .Jvazdb,
+.Hjzhbc,
+.f0Eb9c,
 .g3VIld,
-.u5oEgd {
+.u5oEgd,
+.UVZlkc{
     background: #0D0D0D!important;
 }
 .GcESAf,
@@ -39,7 +42,7 @@ IN THE SOFTWARE.
     background-color: #D60101 !important;
 }
 .cjGgHb .M9kDrd:hover,
-.M9kDrd:focus {
+.M9kDrd:focus, .z80M1.FwR7Pc {
     background-color: #1D1D1D !important;
 }
 .GsLz7c,
@@ -97,6 +100,7 @@ a,
 .gZXxHe,
 .JPdR6b,
 .gBPe9b,
+.Nw9uye,
 .RW0zMe {
     background-color: #151515 !important;
 }
@@ -117,7 +121,7 @@ a,
 .XVzU0b circle {
     fill: #EAE9E9 !important;
 }
-.xdjHt.FYQzvb {
+.xdjHt.FYQzvb, .KSpDGb {
     background-image: url('https://ssl.gstatic.com/images/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png') !important;
 }
 .Wbuh5e,
@@ -140,6 +144,9 @@ a,
 }
 .teJoc {
     border-left: 5px solid #EAE9E9 !important;
+}
+.f0Eb9c{
+        border-bottom: 1px solid #EAE9E9 !important;
 }
 .kImWkc, .T4R01 .wsq3Ve {
     background: #9B0101 !important;
