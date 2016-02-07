@@ -1,11 +1,21 @@
-{
-	"manifest_version": 2,
-	"name": "Dark-Google",
-	"version": "0.1",
-	"description": "Dark theme for google sites",
-	"author": "CoolaxGaming",
-	"content_scripts": [{
-		"matches": ["https://plus.google.com/*"],
-		"css": ["plus.css"]
-	}]
+{  
+   "manifest_version":2,
+   "name":"Dark-Google",
+   "version":"0.1",
+   "description":"Dark theme for google sites",
+   "browser_action":{  
+      "default_icon":"icon.png",
+      "default_popup":"popup.html"
+   },
+   "author":"CoolaxGaming",
+   "content_scripts":[  
+      {  
+         "matches":[  
+            "https://plus.google.com/*"
+         ],
+         "css":[  
+            "plus.css"
+         ]
+      }
+   ]
 }
