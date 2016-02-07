@@ -17,5 +17,13 @@
             "plus.css"
          ]
       }
+            {  
+         "matches":[  
+            "https://google.com/*"
+         ],
+         "css":[  
+            "google.css"
+         ]
+      }
    ]
 }
