@@ -1,7 +1,7 @@
 {  
    "manifest_version":2,
    "name":"Dark-Google",
-   "version":"0.1",
+   "version":"0.5",
    "description":"Dark theme for google sites",
    "browser_action":{  
       "default_icon":"icon.png"
