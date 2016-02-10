@@ -19,13 +19,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
 IN THE SOFTWARE.
 */
+
 .Jvazdb,
 .kmZFre,
 .Hjzhbc,
 .f0Eb9c,
+.JXv70c,
 .g3VIld,
+.QblzFb.KKjvXb,
 .u5oEgd,
-.UVZlkc{
+.UVZlkc {
     background: #0D0D0D !important;
 }
 .QblzFb.KKjvXb {
@@ -44,7 +47,9 @@ IN THE SOFTWARE.
 .modal-dialog-content,
 .modal-dialog,
 .RW0zMe,
+.jmOUCb,
 .Ihwked,
+.QblzFb,
 .U6045c,
 .RMTDpd,
 .QoB5We {
@@ -58,8 +63,11 @@ IN THE SOFTWARE.
     background-color: #D60101 !important;
 }
 .cjGgHb .M9kDrd:hover,
-.M9kDrd:focus, .z80M1.FwR7Pc,
-.MYWGxc:hover, .MYWGxc:focus{
+.M9kDrd:focus,
+.z80M1.FwR7Pc,
+.MYWGxc:hover,
+.MYWGxc:focus,
+.cjGgHb .M24KRd:hover {
     background-color: #1D1D1D !important;
 }
 .GsLz7c,
@@ -67,14 +75,12 @@ IN THE SOFTWARE.
     background-color: #0C0C0C !important;
 }
 .F7tj9b,
+.Cj4Jbc,
 .LZOeXd {
     background-color: #101010 !important;
 }
 .B5gIxb {
     background-color: transparent !important;
-}
-.cjGgHb .M24KRd:hover {
-    background-color: #1D1D1D !important;
 }
 .m3JvWd,
 .hrpkgc,
@@ -132,13 +138,15 @@ a,
 .XVzU0b circle {
     fill: #EAE9E9 !important;
 }
-.xdjHt.FYQzvb, .KSpDGb {
+.xdjHt.FYQzvb,
+.KSpDGb {
     background-image: url('https://ssl.gstatic.com/images/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png') !important;
 }
 .Wbuh5e,
 .Xa1Zuc,
 .Q1mYie,
 .w7TRJf,
+.o30VSc,
 .xRbTYb,
 .Dm8wYc,
 .jdiJDd,
@@ -152,6 +160,10 @@ a,
 .jsery,
 .CvqmZc,
 .Aprlmc,
+.zqU9Fe,
+.DOdATc,
+.Y5upsc,
+.C98T8d,
 .toHbGf,
 .ParDJc {
     color: #EAE9E9 !important;
@@ -159,10 +171,12 @@ a,
 .teJoc {
     border-left: 5px solid #EAE9E9 !important;
 }
-.f0Eb9c, .Vk7JBd:not(:last-child){
-        border-bottom: 1px solid #EAE9E9 !important;
+.f0Eb9c,
+.Vk7JBd:not(:last-child) {
+    border-bottom: 1px solid #EAE9E9 !important;
 }
-.kImWkc, .wsq3Ve {
+.kImWkc,
+.wsq3Ve {
     background: #9B0101 !important;
 }
 .RH4Xh.DZW8fd {
@@ -170,9 +184,6 @@ a,
 }
 qnc6Hf.RH4Xh.DZW8fd {
     background-color: #880202 !important;
-}
-.JXv70c {
-    background-color: #0d0d0d !important;
 }
 .M9kDrd.d1pIIf .DCYkOe {
     fill: rgba(255, 255, 255, 0.87) !important;
@@ -188,6 +199,9 @@ qnc6Hf.RH4Xh.DZW8fd {
 }
 .nRQuUe {
     background-color: #0E0E0E !important;
+}
+.j42itb .wsq3Ve {
+    background: #212121 !important;
 }
 ::-webkit-scrollbar {
     width: 12px;
